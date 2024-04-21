@@ -121,7 +121,9 @@ performance of neural networks.
 
 ## Resources
 
+- [The accompanying publication](https://github.com/bela127/knowledge-surrogate-opt/blob/main/paper.pdf)
+- [Data Description](https://github.com/bela127/knowledge-surrogate-opt/blob/main/data/Zur_Definition_relevanter_Gr%C3%B6%C3%9Fen.pdf)
 - [Master Thesis](https://drive.google.com/file/d/1xT8gdCf4KUjKuaM_V_lJjZZyNrLVJqlD/view?usp=drive_link) — The complete
-  PDF document of my master thesis, providing detailed explanations and the full context of the research conducted.
+  PDF document of the master thesis on which our paper builds, providing detailed explanations and the full context of the research conducted.
 - [Presentation](https://docs.google.com/presentation/d/1W_r7YDsGix6zE4SrbwfPBxiymo1WQukJ3GJEC5ftZ1Y/edit?usp=sharing) —
-  The presentation of my research work, highlighting the key contributions and results.
+  The presentation of our research work, highlighting the key contributions and results.
